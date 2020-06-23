@@ -8,4 +8,4 @@ Unsupervised Learning - Clustering, PCA
 Reinforced Learning  
 Recommender Systems
 
-This repo contains the ML algorithms and its implementation in octave and python.
+This repo contains the exercises (implemented in both octave and python) from Andrew Ng's Machine Learning course on Coursera.
